@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "/E/libs/git/LServer"
+        }
+    ], 
+    "settings": {
+        "go_project": true, 
+        "name": "LServer"
+    }
+}

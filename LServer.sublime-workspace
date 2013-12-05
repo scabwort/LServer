@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"get",
+				"GetFileContent	string, error ƒ"
+			],
+			[
+				"pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"fu",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"ModD",
+				"ModeDir	 Ɩ"
+			],
+			[
+				"mkdi",
+				"MkdirAll	error ƒ"
+			],
+			[
+				"str",
+				"startIdx	int ν"
+			],
+			[
+				"read",
+				"readTpl	string ν"
+			],
+			[
+				"rep",
+				"Replace	string ƒ"
+			],
+			[
+				"re",
+				"Replace	string ƒ"
+			],
+			[
+				"e",
+				"Execute	err error ƒ"
+			],
+			[
+				"A",
+				"AsVar	struct ʈ"
+			],
+			[
+				"con",
+				"contents	[]string ν"
+			],
+			[
+				"pa",
+				"Parse	*template.Template, error ƒ"
+			],
+			[
+				"par",
+				"Parse	*template.Template, error ƒ"
+			],
+			[
+				"std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"ex",
+				"ExecuteTemplate	error ƒ"
+			],
+			[
+				"Re",
+				"ReplaceIdx	int ν"
+			],
+			[
+				"fil",
+				"fieldHash	map[string]int ν"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"int",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"w",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"U",
+				"PutUvarint	int ƒ"
+			],
+			[
+				"ma",
+				"MaxRow	int ν"
+			],
+			[
+				"tbl",
+				"tblItem	nodeItem ν"
+			],
+			[
+				"tb",
+				"tblItem	nodeItem ν"
+			],
+			[
+				"fo",
+				"for	For Loop"
+			],
+			[
+				"boo",
+				"FormatBool	string ƒ"
+			],
+			[
+				"b",
+				"ParseBool	value bool, err error ƒ"
+			],
+			[
+				"P",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"exi",
+				"IsExist	bool ƒ"
+			],
+			[
+				"xls",
+				"xlsxHash	map[string]xlsx.File ν"
+			],
+			[
+				"xl",
+				"xlsxHash	map[string]xlsx.File ν"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"x",
+				"Xlsx	string ν"
+			],
+			[
+				"Pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"ope",
+				"Open	file *os.File, err error ƒ"
+			],
+			[
+				"f",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"s",
+				"Seconds	float64 ƒ"
+			],
+			[
+				"no",
+				"Nanosecond	 Ɩ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"m",
+				"func main	func main {...} ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Browse Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/libs/go/test/server/src/station/main.go",
+		"/E/libs/go/test/demo3/src/types/configStruct.go",
+		"/E/libs/go/test/demo3/src/utils/fileUtils.go",
+		"/E/libs/go/test/demo3/bin/server.xml",
+		"/E/libs/go/test/demo3/src/utils/utils.go",
+		"/E/libs/go/test/demo3/src/agent/main.go",
+		"/E/libs/go/test/demo3/src/test/main.go",
+		"/E/libs/go/test/demo3/src/station/stationNode.go",
+		"/E/libs/go/test/demo3/src/station/run.bat",
+		"/E/libs/go/test/demo3/src/station/util/stationNode.go",
+		"/E/libs/go/test/demo3/src/test1/test1.go",
+		"/E/libs/go/test/demo3/src/center/main.go",
+		"/E/libs/go/test/demo3/install.bat",
+		"/E/libs/go/test/demo3/demo3.sublime-workspace.dump",
+		"/E/libs/go/test/demo2/src/test1/test1.go",
+		"/E/libs/go/test/demo2/src/run.bat",
+		"/E/libs/go/test/demo2/src/main.go",
+		"/E/libs/go/test/demo2/src/test/main.go",
+		"/E/libs/go/test/demo2/test1/main.go",
+		"/E/libs/go/test/demo2/demo2.sublime-project",
+		"/E/libs/go/test/demo1/demo/demo1/main.go",
+		"/E/libs/go/test/demo1/demo/configParse/template.as",
+		"/E/libs/go/test/demo1/demo/configParse/main.go",
+		"/E/libs/go/test/demo1/demo/configParse/config.xml",
+		"/E/libs/go/test/demo1/demo/demo1/template.as",
+		"/E/libs/go/test/demo1/demo/demo1/as.templete",
+		"/E/libs/go/test/demo1/demo/demo2/main.go",
+		"/E/libs/go/test/demo1/demo/configParse/configData.go",
+		"/E/libs/go/test/demo1/demo/configParse/core/GeneratorAs3.go",
+		"/E/libs/go/test/demo1/demo/configParse/core/configData.go",
+		"/E/libs/go/libs/src/labix.org/v2/mgo/socket.go",
+		"/E/libs/go/libs/src/labix.org/v2/mgo/log.go",
+		"/E/libs/go/libs/src/labix.org/v2/mgo/auth.go",
+		"/E/libs/go/libs/src/labix.org/v2/mgo/gridfs_test.go",
+		"/E/libs/go/test/demo1/demo/configParse/GeneratorAs3.go",
+		"/C/Go/src/pkg/bytes/reader.go",
+		"/E/libs/go/test/demo1/demo/configParse/GeneratorAs3",
+		"/C/Go/src/pkg/bytes/buffer.go",
+		"/C/Go/src/pkg/encoding/binary/binary.go",
+		"/C/Go/src/pkg/strconv/atoi.go",
+		"/C/Go/src/pkg/strconv/atob.go",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/GoSublime/9o.md",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/libs/go/test/demo1/demo/demo2/hero.xlsx",
+		"/E/libs/go/test/demo1/demo/main.go",
+		"/E/libs/go/libs/src/github.com/lxn/walk/examples/filebrowser/filebrowser.go",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/E/libs/go/test/demo1/demo/func1.go",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/lidm/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GetAppPath",
+			"LittleEndian",
+			"writeItem",
+			"string",
+			"switch",
+			"\nfunc getAsType(str string) string {\n	if str == \"string\" {\n		return \"String\"\n	}\n	return \"int\"\n}",
+			"data",
+			"Data",
+			"getBytes",
+			"getContent",
+			"clsName",
+			"ClsName",
+			"clsName",
+			"getContent",
+			"Bytes",
+			"HasReplace",
+			"getHeadIdx",
+			"colKey",
+			"path[], ",
+			"\n					case \"byte\":\n						",
+			"tblItem",
+			"\n					",
+			"!\\",
+			"))\n",
+			")\n",
+			"xlFile",
+			"gtetData",
+			"nodeItem",
+			"Items",
+			"\"`\n",
+			"//application 1\n			{\n				\"caption\": \"Photoshop\",\n				\"id\": \"side-bar-files-open-with-photoshop\",\n\n				\"command\": \"side_bar_files_open_with\",\n				\"args\": {\n									\"paths\": [],\n									\"application\": \"Adobe Photoshop CS5.app\", // OSX\n									\"extensions\":\"psd|png|jpg|jpeg\"  //any file with these extensions\n								}\n			},",
+			")\n",
+			"this",
+			"thing",
+			"hello",
+			"WORLD",
+			"func"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://E:\\libs\\go\\test\\demo1\\demo":
+	{
+		"height": 100.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo1\\demo\\configParse":
+	{
+		"height": 130.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo1\\demo\\demo1":
+	{
+		"height": 256.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo1\\demo\\demo2":
+	{
+		"height": 203.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo2\\src":
+	{
+		"height": 292.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo2\\src\\test":
+	{
+		"height": 118.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo2\\test1":
+	{
+		"height": 118.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo3\\src\\agent":
+	{
+		"height": 118.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo3\\src\\station":
+	{
+		"height": 295.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo3\\src\\test":
+	{
+		"height": 187.0
+	},
+	"output.9o://E:\\libs\\go\\test\\demo3\\src\\utils":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"utils",
+				"src/utils/utils.go"
+			],
+			[
+				"utils.go",
+				"src/utils/utils.go"
+			],
+			[
+				"u",
+				"src/utils/utils.go"
+			],
+			[
+				"fu",
+				"func1.go"
+			],
+			[
+				"ma",
+				"main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
